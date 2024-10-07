@@ -38,6 +38,3 @@ python3 main.py
 ---
 
 <div align='center'><b>RouterX@2024</b></div>
-# Teste de alteração
-# Teste de alteração
-# Teste de alteração
