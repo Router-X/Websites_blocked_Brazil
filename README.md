@@ -87,4 +87,4 @@ GitHub para armazenar e versionar os domínios bloqueados
 📞 Suporte
 Caso tenha dúvidas ou encontre problemas, abra uma issue neste repositório ou fale com Max!
 
-<div align='center'><b>RouterX@2024</b></div>
+<div align='center'><b>RouterX@2025</b></div>
