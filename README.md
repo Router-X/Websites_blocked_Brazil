@@ -57,9 +57,10 @@ Abra o notebook do Google Colab e execute o script para processar os arquivos:
 🔗 [Abrir Google Colab](https://colab.research.google.com/drive/1W6MpJYoxu5FW7SVGPQuWGei4QcXBf0A0?usp=drive_link) 
 
 3️⃣ Executar o Código no Colab
-No menu superior, clique em "Ambiente de Execução".
-Escolha "Desconectar e excluir ambiente de execução".
-Novamente, clique em "Ambiente de Execução" e selecione "Executar tudo".
+
+No menu superior, clique em ```"Ambiente de Execução".```
+Escolha ```"Desconectar e excluir ambiente de execução".```
+Novamente, clique em ```"Ambiente de Execução"``` e selecione ```"Executar tudo"```.
 Aguarde a execução de todas as células e verifique se há erros ao final de cada etapa.
 
 📌 Funcionalidades
