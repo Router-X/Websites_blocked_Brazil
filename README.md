@@ -4,10 +4,12 @@ Este repositório contém um fluxo automatizado para processar arquivos PDF, ext
 
 1️⃣ Adicionar os PDFs
 Coloque os arquivos PDF contendo os domínios bloqueados na pasta compartilhada do Google Drive:
+
 🔗 Pasta de PDFs no Google Drive
 
 2️⃣ Executar o Google Colab
 Abra o notebook do Google Colab e execute o script para processar os arquivos:
+
 🔗 Abrir Google Colab
 
 3️⃣ Executar o Código no Colab
