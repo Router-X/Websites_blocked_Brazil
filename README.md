@@ -59,14 +59,22 @@ Abra o notebook do Google Colab e execute o script para processar os arquivos:
 3️⃣ Executar o Código no Colab
 
 No menu superior, clique em ```"Ambiente de Execução".```
+
 Escolha ```"Desconectar e excluir ambiente de execução".```
+
 Novamente, clique em ```"Ambiente de Execução"``` e selecione ```"Executar tudo"```.
+
 Aguarde a execução de todas as células e verifique se há erros ao final de cada etapa.
 
+
 📌 Funcionalidades
+
 ✅ Processa os PDFs e extrai os domínios bloqueados.
+
 ✅ Remove duplicatas da lista de domínios.
+
 ✅ Atualiza automaticamente o repositório no GitHub, caso haja mudanças.
+
 ✅ Exibe relatórios com a quantidade de domínios antes e depois do processamento.
 
 🛠 Tecnologias Utilizadas
