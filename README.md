@@ -1,6 +1,6 @@
 # 🚀 Processamento de PDFs e Atualização de Domínios Bloqueados
 
-### Este repositório contém um fluxo automatizado para processar arquivos PDF, extrair domínios bloqueados e atualizar a lista no GitHub.
+#### Este repositório contém um fluxo automatizado para processar arquivos PDF, extrair domínios bloqueados e atualizar a lista no GitHub.
 
 📂 Como Usar
 
