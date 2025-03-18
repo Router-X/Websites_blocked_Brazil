@@ -1,22 +1,22 @@
 # 🚀 Processamento de PDFs e Atualização de Domínios Bloqueados
-## Este repositório contém um fluxo automatizado para processar arquivos PDF, extrair domínios bloqueados e atualizar a lista no GitHub.
-## 📂 Como Usar
+Este repositório contém um fluxo automatizado para processar arquivos PDF, extrair domínios bloqueados e atualizar a lista no GitHub.
+📂 Como Usar
 
-## 1️⃣ Adicionar os PDFs
-### Coloque os arquivos PDF contendo os domínios bloqueados na pasta compartilhada do Google Drive:
+1️⃣ Adicionar os PDFs
+Coloque os arquivos PDF contendo os domínios bloqueados na pasta compartilhada do Google Drive:
 🔗 Pasta de PDFs no Google Drive
 
-## 2️⃣ Executar o Google Colab
-### Abra o notebook do Google Colab e execute o script para processar os arquivos:
+2️⃣ Executar o Google Colab
+Abra o notebook do Google Colab e execute o script para processar os arquivos:
 🔗 Abrir Google Colab
 
-## 3️⃣ Executar o Código no Colab
+3️⃣ Executar o Código no Colab
 No menu superior, clique em "Ambiente de Execução".
 Escolha "Desconectar e excluir ambiente de execução".
 Novamente, clique em "Ambiente de Execução" e selecione "Executar tudo".
 Aguarde a execução de todas as células e verifique se há erros ao final de cada etapa.
 
-## 📌 Funcionalidades
+📌 Funcionalidades
 ✅ Processa os PDFs e extrai os domínios bloqueados.
 ✅ Remove duplicatas da lista de domínios.
 ✅ Atualiza automaticamente o repositório no GitHub, caso haja mudanças.
@@ -29,8 +29,8 @@ Google Colab para execução do script
 GitHub para armazenar e versionar os domínios bloqueados
 ```
 
-## 📞 Suporte
-### Caso tenha dúvidas ou encontre problemas, abra uma issue neste repositório ou fale com Max!
+📞 Suporte
+Caso tenha dúvidas ou encontre problemas, abra uma issue neste repositório ou fale com Max!
 
 ---
 
