@@ -1,0 +1,28 @@
+# Sites legítimos citados nos ofícios como referência, prova ou fundamento.
+# Nunca são alvo de bloqueio. Match exato + toda a árvore de subdomínios.
+#
+# NÃO inclua encurtadores (bit.ly, linktr.ee, t.co): são justamente o que a
+# pirataria usa para redirecionar, e podem constar como alvo em um ofício.
+
+# --- Buscadores e plataformas ---
+google.com
+youtube.com
+facebook.com
+instagram.com
+whatsapp.com
+yahoo.com
+x.com
+twitter.com
+
+# --- Imprensa (citada como prova em decisões) ---
+globo.com
+cnnbrasil.com.br
+uol.com.br
+folha.uol.com.br
+estadao.com.br
+metropoles.com
+r7.com
+terra.com.br
+
+# --- Setor ---
+abta.org.br

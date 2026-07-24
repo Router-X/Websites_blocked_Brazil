@@ -1,0 +1,8 @@
+# Fragmentos e leituras corrompidas de OCR, confirmados manualmente
+# contra o PDF original. Nao sao dominios reais - nunca devem ser bloqueados.
+# Formato:  entrada | motivo
+
+edia.ne           | fragmento de fapopedia.net
+us.br             | fragmento
+www-xpics.me      | OCR trocou ponto por hifen; correto e xpics.me
+llonsprovedor.com | OCR trocou i por l; correto e lionsprovedor.com

@@ -1,0 +1,7 @@
+# Domínios com ordem judicial de DESBLOQUEIO.
+# São removidos do banco a cada execução e nunca readmitidos.
+# Formato:  dominio | ofício | data
+#
+# ATENÇÃO: preencha a partir dos ofícios de desbloqueio que você tem em mãos.
+# A antiga lista DOMINIOS_IGNORADOS_IPTV NÃO foi migrada automaticamente
+# porque a procedência de cada entrada não está confirmada.

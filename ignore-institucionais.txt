@@ -1,0 +1,10 @@
+# Órgãos e tribunais citados no corpo dos ofícios.
+# Match exato + toda a árvore de subdomínios. Uma entrada por linha.
+gov.br
+jus.br
+mp.br
+leg.br
+def.br
+anatel.gov.br
+pje.cloud
+pje.jus.br
