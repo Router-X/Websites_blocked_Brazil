@@ -1,4 +1,11 @@
 {
+  "045150b8a61b2b2ad1d19a87a803b1c0154409a691d03e2b6ddd94cb17464989": {
+    "arquivo": "SEI_0025410953_Oficio_12738 (1).pdf",
+    "data": "2026-07-27T20:08:10",
+    "dominios": [],
+    "ocr": false,
+    "operador": "maxwell"
+  },
   "062ed57252aadf1ef6324c468f3a1a2d36a4b526df926c248e31db862d124479": {
     "arquivo": "Ofício nº 603-2026-FIGF6-FIGF-SFI-ANATEL.pdf",
     "data": "2026-07-24T19:23:16",
@@ -99,6 +106,13 @@
       "ujorabi.online",
       "visitacdn2.top"
     ],
+    "ocr": false,
+    "operador": "maxwell"
+  },
+  "456335edb2b05c93b1da8203b4613e8e622da6a06bda9197980d0a88c4a3e0ea": {
+    "arquivo": "Dominios_sistema_22.07.2026 (1).pdf",
+    "data": "2026-07-27T20:07:42",
+    "dominios": [],
     "ocr": false,
     "operador": "maxwell"
   },
@@ -373,6 +387,13 @@
     "ocr": false,
     "operador": "maxwell"
   },
+  "6342818a5123478dd4a2d14828ff0e553d352844544c148ea5c03862509c4ae9": {
+    "arquivo": "Ofício n° 16853936 - CyberGaeco - 15.07.2026.pdf",
+    "data": "2026-07-27T20:08:09",
+    "dominios": [],
+    "ocr": false,
+    "operador": "maxwell"
+  },
   "67943b09978e74acb12b2d1cb5e119192b70edc4317365f0f1b05fe1d9e514d8": {
     "arquivo": "Ofício nº 16851889-2026 - CyberGaeco.pdf",
     "data": "2026-07-25T14:11:39",
@@ -396,6 +417,27 @@
     "ocr": true,
     "operador": "maxwell"
   },
+  "730884154b1f99d2c0da7b2eea52e962e89f56e7f548220865c554a2c8279826": {
+    "arquivo": "Dominios_sistema_21.07.2026 (1).pdf",
+    "data": "2026-07-27T20:07:43",
+    "dominios": [],
+    "ocr": false,
+    "operador": "maxwell"
+  },
+  "731dd426d1c34afa5b665534c50760764b248b64e78e7b046bac8f793fb23539": {
+    "arquivo": "0844595-36.2026.8.18.0140-1784547758737-132887-decisao (1).pdf",
+    "data": "2026-07-27T20:08:37",
+    "dominios": [],
+    "ocr": false,
+    "operador": "maxwell"
+  },
+  "73a0cbcb2056316fbd6d692c706215ee07387bfb15c02f00b53d2c87896ef12f": {
+    "arquivo": "Ofício nº 631-2026-FIGF6-FIGF-SFI-ANATEL.pdf",
+    "data": "2026-07-27T20:08:12",
+    "dominios": [],
+    "ocr": false,
+    "operador": "maxwell"
+  },
   "7932cf4330cc7053f5b56b4a94b202517d9777d86de0212617a65287e5ca6c72": {
     "arquivo": "0844595-36.2026.8.18.0140-1784547758737-132887-decisao.pdf",
     "data": "2026-07-24T19:41:29",
@@ -410,6 +452,15 @@
     "data": "2026-07-25T14:11:38",
     "dominios": [],
     "ocr": false,
+    "operador": "maxwell"
+  },
+  "7c7f15728316c8ecbeee0684aba9950f27f1f3f9be68ce8a1afc0e291f121e81": {
+    "arquivo": "SEI_4146824_Oficio_102.pdf",
+    "data": "2026-07-27T20:07:09",
+    "dominios": [
+      "ov.br"
+    ],
+    "ocr": true,
     "operador": "maxwell"
   },
   "7ff06881b4981821462afd3c8b28ad13eacff5f0bad0af3c336141b8a16a79e3": {
@@ -431,6 +482,13 @@
   "897470e480aac0837d1c5fc5fb40638c2746da5f9a2a75b21f6f16ec1dbcef1f": {
     "arquivo": "Dominios_sistema_19.07.2026.pdf",
     "data": "2026-07-25T14:11:27",
+    "dominios": [],
+    "ocr": false,
+    "operador": "maxwell"
+  },
+  "8a8c3053008fbe21d14ccf83716933d8a164b8fac141db16ee88ea153ffe7576": {
+    "arquivo": "Dominios_sistema_25.07.2026.pdf",
+    "data": "2026-07-27T20:07:40",
     "dominios": [],
     "ocr": false,
     "operador": "maxwell"
@@ -1782,6 +1840,13 @@
     "ocr": false,
     "operador": "maxwell"
   },
+  "9e4064d7cf8d2155134381c4d02cfdc29131cf3e88d087525cd5ebc035e1e722": {
+    "arquivo": "Ofício n° 16823425 - CyberGaeco - 03.07.2026.pdf",
+    "data": "2026-07-27T20:07:45",
+    "dominios": [],
+    "ocr": false,
+    "operador": "maxwell"
+  },
   "a039864781d3690aab22a449179a0c2e24388661f83e47bd172f9915a82b77a4": {
     "arquivo": "Ofício nº 16851889-2026 - CyberGaeco.pdf",
     "data": "2026-07-24T19:27:46",
@@ -1987,6 +2052,13 @@
   "baa56bd1b5ec3d2abc1d96cb57236514eadc6b43e05dde79a062faf6fc271223": {
     "arquivo": "Dominios_sistema_11.07.2026.pdf",
     "data": "2026-07-25T14:18:01",
+    "dominios": [],
+    "ocr": false,
+    "operador": "maxwell"
+  },
+  "c3d33a759920be1593eb34a41838ccbe9725d64899e92d6ae2e42fc79af9f483": {
+    "arquivo": "Ofício n° 16853900 - CyberGaeco - 15.07.2026.pdf",
+    "data": "2026-07-27T20:08:07",
     "dominios": [],
     "ocr": false,
     "operador": "maxwell"
@@ -2276,6 +2348,13 @@
   "ef5d2c8403cb308669526be2f04c5ae668f4ea6a621a245316be18663f7e21d6": {
     "arquivo": "Ofício nº 177-2026-Del.pdf",
     "data": "2026-07-25T14:16:34",
+    "dominios": [],
+    "ocr": false,
+    "operador": "maxwell"
+  },
+  "f2bad877f2f53d9e2dbaafdec54776e54911f7f7a7cdf060d9d1207805fe9520": {
+    "arquivo": "Planilha - complementar - Tabela Domínios 22.07.2026.pdf",
+    "data": "2026-07-27T20:07:38",
     "dominios": [],
     "ocr": false,
     "operador": "maxwell"
