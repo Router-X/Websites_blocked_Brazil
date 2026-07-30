@@ -16,9 +16,12 @@
 
 **EN** — This repository maintains a public list of domains named in blocking orders issued by Brazilian authorities (ANATEL, ANCINE) and the Judiciary. It is intended for consumption by ISPs, network operators, and DNS systems that need to apply blocks in a standardized, reproducible way.
 
-> **Aviso / Disclaimer** — Esta lista reflete determinações de terceiros e é fornecida "como está", sem garantia de completude ou atualidade. A responsabilidade por aplicar, revisar ou contestar qualquer bloqueio é de quem o executa. Este repositório não emite, endossa nem contesta as ordens que compila.
+> **Aviso Legal e Finalidade / Disclaimer & Purpose**
+> 
+> **PT** — Todo o conteúdo, dados e metodologias disponibilizados neste repositório têm caráter estritamente educativo, de teste e para fins de estudo. Esta lista reflete determinações de terceiros e é fornecida "como está", sem garantia de completude ou atualidade. A responsabilidade pela utilização, aplicação, revisão ou contestação de qualquer informação ou bloqueio é inteira e exclusiva do usuário que a executa. Este repositório não emite, endossa nem contesta as ordens que compila.
 >
-> *This list reflects third-party determinations and is provided "as is", without warranty of completeness or timeliness. Responsibility for applying, reviewing, or challenging any block lies with whoever enforces it. This repository neither issues, endorses, nor challenges the orders it compiles.*
+> **EN** — *All content, data, and methodologies provided in this repository are strictly for educational, testing, and research purposes. This list reflects third-party determinations and is provided "as is", without warranty of completeness or timeliness. The application, implementation, review, or challenge of any information or block is the sole responsibility of the individual user. This repository neither issues, endorses, nor challenges the orders it compiles.*
+
 
 ---
 
