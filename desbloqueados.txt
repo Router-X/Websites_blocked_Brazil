@@ -6,5 +6,7 @@
 # ATENÇÃO: preencha a partir dos ofícios de desbloqueio que você tem em mãos.
 # A antiga lista DOMINIOS_IGNORADOS_IPTV NÃO foi migrada automaticamente
 # porque a procedência de cada entrada não está confirmada.
-
-# btvbox.tv        | OF 1234/2025 | 2025-03-14
+# btvbox.tv                       | OF 1234/2025        | 2025-03-14
+centralcart.com.br                | OF (SEI nº 9805494) | 2023-02-07
+www.centralcart.com.br            | OF (SEI nº 9805494) | 2023-02-07
+streamingcards.centralcart.com.br | OF (SEI nº 9805494) | 2023-02-07
