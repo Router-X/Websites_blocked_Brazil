@@ -39,6 +39,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "0d5ee52c06b39b302340cc3242b4ed6f93559bf978ef7b3fd631a384b530f9d1": {
+    "arquivo": "DOMINIO_02_08_2026_112-1.pdf",
+    "data": "2026-08-10T18:53:06",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
   "0eb9726296a77f801bfaa95ce7aaad5951e206464706fd2db61ebcd89a45f75f": {
     "arquivo": "Ofício n° 16853936 - CyberGaeco - 15.07.2026.pdf",
     "data": "2026-07-25T14:11:02",
@@ -356,6 +363,13 @@
     "ocr": false,
     "operador": "maxwell"
   },
+  "1cb39c296a0353b47710150ec784fc03912a6c909ed43e920cfedfa795c79a2d": {
+    "arquivo": "Ofício n° 16898176 - CyberGaeco.pdf",
+    "data": "2026-08-10T18:52:57",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
   "211fa47122a299893cfeedd93e2456cfbf24342a8570ecaa8b05ae483f6e2798": {
     "arquivo": "Ofício nº 173-2026-Del.pdf",
     "data": "2026-07-25T14:17:55",
@@ -399,6 +413,13 @@
     "data": "2026-08-06T13:16:16",
     "dominios": [],
     "ocr": true,
+    "operador": "Max-RouterX"
+  },
+  "288530930b8a7b37c455bb22dd1aeae2882ce24c5bebff5fa361793b718a9da0": {
+    "arquivo": "Ofício n° 205-2026 - Ciberlab.pdf",
+    "data": "2026-08-10T18:44:30",
+    "dominios": [],
+    "ocr": false,
     "operador": "Max-RouterX"
   },
   "2b7c56ce964749ce3c0ca3a5e81cf00a119d61a7281e4cbd8bbb9186bd607b92": {
@@ -2974,6 +2995,13 @@
     "ocr": false,
     "operador": "maxwell"
   },
+  "532c0016610a002af58533dc4c2a5cd2c6e303ba0148384b053522c86857b6d3": {
+    "arquivo": "DOMINIO_29_07_2026__109.pdf",
+    "data": "2026-08-10T18:53:01",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
   "547cb2325a0f26290fea7aa05f8220c42276497b626dec967abb8fefdd0a2038": {
     "arquivo": "Ofício n° 16853900 - CyberGaeco - 15.07.2026.pdf",
     "data": "2026-07-31T13:02:39",
@@ -3076,6 +3104,13 @@
     "dominios": [],
     "ocr": false,
     "operador": "maxwell"
+  },
+  "5e54e3c82e22a935044027b6ebe8f80901c3d0b466c3dc8e93755d5d8e05c7f6": {
+    "arquivo": "Ofício n° 204-2026 - Ciberlab.pdf",
+    "data": "2026-08-10T18:43:15",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
   },
   "5ebde7704f042f966f1001898ef1e52afe31263ab5de1754ccf7f9c2ec4581a1": {
     "arquivo": "Anexo_Oficio_92_Bloqueio_Dominios.pdf",
@@ -6481,6 +6516,27 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "9131b3dab4ecca399a617efe31733e4f80ffc0d076ff1d347e30ed72d2ae5cd3": {
+    "arquivo": "77A__Lista_Bloqueio_Anatel.pdf",
+    "data": "2026-08-10T18:47:29",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
+  "962c55c56bf328554785ee6d34ad7f6cb656f969c15ac71f40404f9f39361ab5": {
+    "arquivo": "Ofício n° 206-2026 - Ciberlab.pdf",
+    "data": "2026-08-10T18:47:11",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
+  "97b6f337df07184d3b880b551ef6e5cb95144dffe505960b4deedbaff85c628c": {
+    "arquivo": "Ofício n° 207-2026 - Ciberlab.pdf",
+    "data": "2026-08-10T18:50:07",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
   "9da989272427b4eefc1b72a845cceec0130002e30743097b463e86e391292545": {
     "arquivo": "Planilha - complementar - Tabela Domínios 22.07.2026.pdf",
     "data": "2026-07-25T14:10:54",
@@ -6653,6 +6709,13 @@
     "dominios": [],
     "ocr": false,
     "operador": "maxwell"
+  },
+  "a90ffb627ddcdef9e22fe3efa4c4ac2a344c9cf3fc5428c128fc5e728bf32c14": {
+    "arquivo": "Dominios_sistema_29.07.2026_ESA_108.pdf",
+    "data": "2026-08-10T18:52:58",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
   },
   "aa4361deeb7d30e654452f32105c65407b004e8f6e47ec79bf85ce7010e69288": {
     "arquivo": "SEI_15939392_Oficio_588.pdf",
@@ -6870,6 +6933,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "b9ae8de6e3912c352443f3dd663037766069363e3f2b4688151a2be49fb69505": {
+    "arquivo": "Ofício n° 208-2026 - Ciberlab.pdf",
+    "data": "2026-08-10T18:48:44",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
   "baa56bd1b5ec3d2abc1d96cb57236514eadc6b43e05dde79a062faf6fc271223": {
     "arquivo": "Dominios_sistema_11.07.2026.pdf",
     "data": "2026-07-25T14:18:01",
@@ -6977,6 +7047,13 @@
   "cee7e1826abb1b948f9a854421cfb9089133dd530a31aa7e9d8ef1dda826732f": {
     "arquivo": "Ofício n° 208-2026 - Ciberlab..pdf",
     "data": "2026-08-07T14:56:19",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
+  "d07d4c7a23a2cacb8a6aa2fa91a190487f3daaec28ffe0588f441424ec2707c5": {
+    "arquivo": "Domains_Plantao_20260729_Complementares-1.pdf",
+    "data": "2026-08-10T18:53:01",
     "dominios": [],
     "ocr": false,
     "operador": "Max-RouterX"
@@ -7228,6 +7305,13 @@
     "ocr": false,
     "operador": "maxwell"
   },
+  "df61b1cd1ed32c744c532f0b360b0107804cd80f423f7c2ec67363f4afd66e17": {
+    "arquivo": "Ofício n° 209-2026 - Ciberlab.pdf",
+    "data": "2026-08-10T18:52:47",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
   "e29f32ebed5e1b6b768cb785d5333bbbf8d06697b8fb8b64bbc26caeef0d5766": {
     "arquivo": "Dominios_sistema_21.07.2026.pdf",
     "data": "2026-08-07T15:05:57",
@@ -7280,6 +7364,13 @@
       "veflix.com"
     ],
     "ocr": true,
+    "operador": "Max-RouterX"
+  },
+  "e66aa7856756f779ba9fef46450e30679b1c1261fde3e2d0a57a76fb75067764": {
+    "arquivo": "DOMINIO_28_07_2026_106.pdf",
+    "data": "2026-08-10T18:52:59",
+    "dominios": [],
+    "ocr": false,
     "operador": "Max-RouterX"
   },
   "e77a72b41b16dc7fde5df006c7ac131f8a0b72457ae19feb8bf2e0ef193da27e": {
