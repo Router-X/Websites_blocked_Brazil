@@ -13,6 +13,11 @@ whatsapp.com
 yahoo.com
 x.com
 twitter.com
+www.tiktok.com
+tiktok.com
+t.co
+t.me
+forms.gle
 
 # --- Imprensa (citada como prova em decisões) ---
 globo.com
