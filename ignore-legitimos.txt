@@ -1,8 +1,8 @@
 # Sites legítimos citados nos ofícios como referência, prova ou fundamento.
 # Nunca são alvo de bloqueio. Match exato + toda a árvore de subdomínios.
 #
-# NÃO inclua encurtadores (bit.ly, linktr.ee, t.co): são justamente o que a
-# pirataria usa para redirecionar, e podem constar como alvo em um ofício.
+# Encurtadores (t.co, t.me, goo.gl): mantidos aqui por decisão operacional.
+# Se um ofício nomear um link encurtado específico como alvo, avalie caso a caso.
 
 # --- Buscadores e plataformas ---
 google.com
