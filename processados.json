@@ -483,6 +483,15 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "27c1c324e28d6d999de462a7fcbc43e140238544bc19a2455e45e9f80a08fac0": {
+    "arquivo": "Ofício nº 729_2026_FIGF6_FIGF_SFI-ANATEL.pdf",
+    "data": "2026-08-17T14:46:01",
+    "dominios": [
+      "tmcja-rr.webnode.page"
+    ],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
   "286a9b35064a48b4dc39910d83f0c664c14728518b1614411d07a95f211da25f": {
     "arquivo": "oficio 40336.pdf",
     "data": "2026-08-06T13:16:16",
@@ -3643,6 +3652,13 @@
   "6cb3874a356d1dc2e7097d30453c8da314907e7f8de7544f0fad8e70ef8b34f0": {
     "arquivo": "Ofício n° 214-2026 - Ciberlab. 05.08.2026.pdf",
     "data": "2026-08-14T17:41:55",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
+  "6cbe198c7dc22d6d73075dbe6fc7d6ffc02f02a12f3db268236971b492d333d0": {
+    "arquivo": "I - Decisão Judicial.pdf",
+    "data": "2026-08-17T14:46:06",
     "dominios": [],
     "ocr": false,
     "operador": "Max-RouterX"
