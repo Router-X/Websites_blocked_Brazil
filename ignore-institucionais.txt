@@ -8,3 +8,6 @@ def.br
 anatel.gov.br
 pje.cloud
 pje.jus.br
+
+# --- adicionados pela semente do notebook ---
+ov.br
