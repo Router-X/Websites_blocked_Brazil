@@ -6,13 +6,13 @@
 # ATENÇÃO: preencha a partir dos ofícios de desbloqueio que você tem em mãos.
 # A antiga lista DOMINIOS_IGNORADOS_IPTV NÃO foi migrada automaticamente
 # porque a procedência de cada entrada não está confirmada.
-# btvbox.tv                       | OF 1234/2025                         | 2025-03-14
+#pix.bet.br                        | OFÍCIO SEI Nº 211/2026-VIJCG         | 2026-09-15
+#ganhei.bet.br                     | OFÍCIO SEI Nº 211/2026-VIJCG         | 2026-09-15
+#betdasorte.bet.br                 | OFÍCIO SEI Nº 211/2026-VIJCG         | 2026-09-15
+jogofacil.com.br                  | OFÍCIO SEI Nº 48390/2026/MF          | 2026-09-15
 centralcart.com.br                | OF (SEI nº 9805494)                  | 2023-02-07
 www.centralcart.com.br            | OF (SEI nº 9805494)                  | 2023-02-07
 streamingcards.centralcart.com.br | OF (SEI nº 9805494)                  | 2023-02-07
 www.tiktok.com                    | OF (83-MTRE-SJU-COAPRO-SEAPRO-22026) | 2023-02-07
 vixe.bet                          | Ofício SEI nº 42923/2026/MF          | 2026-07-21
-jogofacil.com.br                  | OFÍCIO SEI Nº 48390/2026/MF          | 2026-09-15
-pix.bet.br                        | OFÍCIO SEI Nº 211/2026-VIJCG         | 2026-09-15
-ganhei.bet.br                     | OFÍCIO SEI Nº 211/2026-VIJCG         | 2026-09-15
-betdasorte.bet.br                 | OFÍCIO SEI Nº 211/2026-VIJCG         | 2026-09-15
+
