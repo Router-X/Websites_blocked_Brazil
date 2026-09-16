@@ -371,6 +371,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "0d589adb61d18531daadf8f4ca860e0a2cfecbcc6d15567082667d905788b25e": {
+    "arquivo": "252-2026-Op_404_47alvos_Fase5_Dominios_assinado.pdf",
+    "data": "2026-09-16T15:25:54",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
   "0d5ee52c06b39b302340cc3242b4ed6f93559bf978ef7b3fd631a384b530f9d1": {
     "arquivo": "DOMINIO_02_08_2026_112-1.pdf",
     "data": "2026-08-10T18:53:06",
@@ -3063,6 +3070,20 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "1308db4b27b6c51a0c21fb6f54d6bebce1da35f7d7c8b355caa87b5d80ec50e3": {
+    "arquivo": "248-2026-Op_404_20alvos_Fase7_Dominios_assinado.pdf",
+    "data": "2026-09-16T15:34:11",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
+  "13a62edb624bbd6dfea7bcfd3e7f17bda8e75e7ea5a0334216e7eb1520daa0b4": {
+    "arquivo": "258-2026-Op_404_47alvos_Fase5_Dominios.pdf",
+    "data": "2026-09-16T15:31:21",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
   "13bfb0784c1edb41e183dad5579e697c94c6474ee463826fcd23585db27eec6b": {
     "arquivo": "I - Ofício nº 500004472160.pdf",
     "data": "2026-08-07T15:27:40",
@@ -4846,6 +4867,13 @@
   "32257674b99d839f37302dba4bfa5f42411b84476ada1ba873bf0a854dd82951": {
     "arquivo": "Ofício n° 222-2026 - Ciberlab. 12.08.2026.pdf",
     "data": "2026-08-21T18:00:36",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
+  "323430a8e95d00c19398bbcb75e52723f13e89d682fb11f655f44dea5920aca0": {
+    "arquivo": "251-Op_404_30alvos_Fase4_IPs_assinado.pdf",
+    "data": "2026-09-16T15:28:33",
     "dominios": [],
     "ocr": false,
     "operador": "Max-RouterX"
@@ -7066,6 +7094,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "3b26c70391f27b137ea0cb039d8a32652822ef08f1d5c350abcd33f3ac36acb3": {
+    "arquivo": "254-Op_404_30alvos_Fase4_Dominios.pdf",
+    "data": "2026-09-16T15:27:14",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
   "3c20c55e4d8d39e4b454b91106dcd3a030af39514ceae0d4bc3aa5543ea3042b": {
     "arquivo": "217-2026-Op_404_20alvos_Fase7_Dominios.pdf",
     "data": "2026-08-25T19:15:34",
@@ -8651,6 +8686,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "4a9805213ee02400bbe9da531f8cb59c1a528df88c4f3b8a69345237a4e039d4": {
+    "arquivo": "255-2026-Op_404_47alvos_Fase5_Dominios.pdf",
+    "data": "2026-09-16T15:17:50",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
   "4b749263f8c4a9c8d71941e945ba2a596ff155bbd8c14acf445b0bebf0402faf": {
     "arquivo": "77A__Lista_Bloqueio_Anatel.pdf",
     "data": "2026-08-29T12:05:15",
@@ -9117,6 +9159,13 @@
   "57bcde04708ce9afb193b09df312b45430f6da9bfe3cf711471308d51191eb64": {
     "arquivo": "Decisao_Judicial_1031339_38_2022_8_26_0050___MPSP15 (3).pdf",
     "data": "2026-08-29T12:06:46",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
+  "59a43c6022b61b5149fb7a02ff6552e3adb6008ecc7e6ca6535dd3303a0eb541": {
+    "arquivo": "249-2026-Op_404_20alvos_Fase7_IPs_assinado.pdf",
+    "data": "2026-09-16T15:23:07",
     "dominios": [],
     "ocr": false,
     "operador": "Max-RouterX"
@@ -9597,6 +9646,13 @@
   "66918d1ad523bc9a07e06d29431e4f25d82add222b946d682f57169d2e8c713d": {
     "arquivo": "DOMINIO_28_07_2026_106.pdf",
     "data": "2026-08-12T19:53:09",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
+  "66beed33f22ec69c65f78704ba2f4a0e913676643fa6ec8458f4a02c0dc6c58f": {
+    "arquivo": "250-Op_404_30alvos_Fase4_Dominios_assinado.pdf",
+    "data": "2026-09-16T15:35:30",
     "dominios": [],
     "ocr": false,
     "operador": "Max-RouterX"
@@ -13634,6 +13690,13 @@
       "legafikisumebub.info",
       "mnmzquwbse.legafikisumebub.info"
     ],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
+  "7e4edf49535992a5275afc15054754c0da5ec25ca30fdf068354a77ac98c95d5": {
+    "arquivo": "256-2026-Op_404_20alvos_Fase7_Dominios.pdf",
+    "data": "2026-09-16T15:21:13",
+    "dominios": [],
     "ocr": false,
     "operador": "Max-RouterX"
   },
@@ -24606,6 +24669,13 @@
     "ocr": false,
     "operador": "maxwell"
   },
+  "de137350691c83d83cbcf16d11b5529d4d8cd5cbe992df64fd649f39dd0e6573": {
+    "arquivo": "257-Op_404_30alvos_Fase4_Dominios.pdf",
+    "data": "2026-09-16T15:32:42",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
   "de37a2105d0f1521904c3acf762334739e366f31d538768e828ea6d29f5dbb64": {
     "arquivo": "Ofício nº 177-2026-Del.pdf",
     "data": "2026-07-24T19:27:45",
@@ -26260,6 +26330,13 @@
     "ocr": false,
     "operador": "maxwell"
   },
+  "f67fb1cab7e0a4a2c9ec6415d7470333e1a455158ae149e3e88ccb7c0a393b7d": {
+    "arquivo": "253-2026-Op_404_20alvos_Fase7_Dominios.pdf",
+    "data": "2026-09-16T15:19:44",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
   "f6ff2fbacd0567623bbdf7b92843f2f1280acde9234f45fad134beab9d299984": {
     "arquivo": "Decisao_Judicial_0008847_51_2023_8_17_2001___SENASP47.pdf",
     "data": "2026-09-15T14:01:11",
@@ -26286,6 +26363,13 @@
       "ww4.embedtv.lat"
     ],
     "ocr": false,
+    "operador": "Max-RouterX"
+  },
+  "f9720c9298b85d76d4ccb8abe07323213a0389b3b29c36f1078af224ca974a69": {
+    "arquivo": "Decisao_Judicial_0008847_51_2023_8_17_2001___SENASP47.pdf",
+    "data": "2026-09-16T15:18:15",
+    "dominios": [],
+    "ocr": true,
     "operador": "Max-RouterX"
   },
   "f992043f94a28fb68c5de26b305315473392d67908f117c8e66605d8504987a9": {
@@ -26384,6 +26468,13 @@
   "fe531fa89967b2766897da079554061844cecfec1dea9f7618e4163bf18d71c9": {
     "arquivo": "Ofício n° 223-2026 - Ciberlab. 12.08.2026.pdf",
     "data": "2026-08-25T19:20:14",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
+  "fe5e8568ae1a1a7dc6875da70156e5848c0992503177358d11ebce167528ea4c": {
+    "arquivo": "Oficio_824.pdf",
+    "data": "2026-09-16T15:21:14",
     "dominios": [],
     "ocr": false,
     "operador": "Max-RouterX"
