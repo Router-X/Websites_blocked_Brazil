@@ -210,6 +210,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "061a5255a4ac1d8164fa4e0c599e823087498f35760db10ab1978f2c07063259": {
+    "arquivo": "Planilha domínios Ofício 255.xlsx",
+    "data": "2026-09-18T18:59:08",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
   "062ed57252aadf1ef6324c468f3a1a2d36a4b526df926c248e31db862d124479": {
     "arquivo": "Ofício nº 603-2026-FIGF6-FIGF-SFI-ANATEL.pdf",
     "data": "2026-07-24T19:23:16",
@@ -319,6 +326,13 @@
       "z3n3tip.me",
       "z5uureyhm.info"
     ],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
+  "07b98ddfc44cb2e9d3286e9bda20a60afc758763a5539ecb4d4a03e277d677a0": {
+    "arquivo": "Planilha - Tabela domínios 20260913.xlsx",
+    "data": "2026-09-18T19:00:38",
+    "dominios": [],
     "ocr": false,
     "operador": "Max-RouterX"
   },
@@ -4836,6 +4850,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "2d20c30e28660ab33560e88f8551dbca44a401ab72164569128933081fdbca6d": {
+    "arquivo": "Planilha domínios Ofício 254.xlsx",
+    "data": "2026-09-18T18:59:09",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
   "2d647860a5693368c826612150aeb7484e84886e90d14ed87ef19ea4890a0a4a": {
     "arquivo": "Ofício n° 211-2026 - Ciberlab. 05.08.2026.pdf",
     "data": "2026-08-14T14:52:40",
@@ -4861,6 +4882,15 @@
     "arquivo": "Ofício n° 215-2026 - Ciberlab. 05.08.2026.pdf",
     "data": "2026-08-14T17:43:24",
     "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
+  "314aac34c3ce7a3cc33678e7dc9c9305195b7c9eac3ebb4aa77a1809c097af18": {
+    "arquivo": "Planilha domínios Ofício 258.xlsx",
+    "data": "2026-09-18T18:59:07",
+    "dominios": [
+      "xn--compre-gr4e5a9cxf8bvjya0y6a4h3g.online"
+    ],
     "ocr": false,
     "operador": "Max-RouterX"
   },
@@ -8560,6 +8590,22 @@
     "ocr": false,
     "operador": "maxwell"
   },
+  "426990652749a6dc9ac42ba919c2e6b0ca7f1a71ebae481947e0afd08515e2d2": {
+    "arquivo": "Planilha domínios Ofício 256.xlsx",
+    "data": "2026-09-18T18:59:07",
+    "dominios": [
+      "megacine-os-melhores-filmes.softonic.com.br",
+      "tv-0800-tv-online-ao-vivo.softonic.com.br",
+      "unitv-filmes-advice-tv-series-ley.en.softonic.com",
+      "unitv-filmes-advice-tv-series-nap.softonic.com.br",
+      "unitv-filmes-advice-tv-series.softonic.com.br",
+      "youcine-brasil-filmes-series.softonic.com",
+      "youcine-filmes-e-series-uq7.softonic.com.br",
+      "youcine-tv-filmes-e-series-wiu.softonic.com.br"
+    ],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
   "42e9d8cdb0483477c433d474b3fead4184cd36b2efeb1839323ccf819edc75d1": {
     "arquivo": "DOMINIO_12_08_2026_123.pdf",
     "data": "2026-08-21T18:00:51",
@@ -9198,6 +9244,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "59c878abe0317d79bf77babdf681250c5bf05ca1ac4868904c3c646d1ac995d9": {
+    "arquivo": "Planilha domínios Ofício 253.xlsx",
+    "data": "2026-09-18T18:59:09",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
   "5a24dc0ab9f39945aeda96ea98aa3832e256e322577394b97b527591a977435d": {
     "arquivo": "Ofício 240-Op_404_30alvos_Fase4_IPs.pdf",
     "data": "2026-09-11T19:49:40",
@@ -9405,6 +9458,39 @@
     "arquivo": "DOMINIOS_PDF_130.pdf",
     "data": "2026-09-03T17:38:31",
     "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
+  "60bd91d79ea9295b806fd40b24e5ae5718960d19f49e15ffab98c66bf31929db": {
+    "arquivo": "Planilha - Tabela domínios 20260909.xlsx",
+    "data": "2026-09-18T19:00:38",
+    "dominios": [
+      "canaistop1.digital",
+      "canaistoptv.xyz",
+      "cinevisionplay.biz",
+      "dezpila.channel",
+      "filmesetorrents.com",
+      "filmestorrentplay4.com",
+      "globalseries.digital",
+      "hdrfilmestorrent.com.br",
+      "megatorrentshd-hydra.blogspot.com",
+      "multicanais.finance",
+      "multicanais.florist",
+      "multicanais.holiday",
+      "multicanaishd.futbol",
+      "nerdxfilmes.com",
+      "netcineye.lat",
+      "omegafilmovi.com",
+      "parabaixar.com",
+      "starckfilmes-v23.com",
+      "www.cinevisionplay.biz",
+      "www.filmesetorrents.com",
+      "www.globalseries.digital",
+      "www.hdrfilmestorrent.site",
+      "www.nerdxfilmes.com",
+      "www.starckfilmes-v23.com",
+      "xn--kksrenoveringlinkping-hecq.nu"
+    ],
     "ocr": false,
     "operador": "Max-RouterX"
   },
@@ -21116,6 +21202,13 @@
     "ocr": false,
     "operador": "maxwell"
   },
+  "89a423e65dc3b4b864464de7fa6dad1b5aea9cf4e8a3eb7b471575784ccce42b": {
+    "arquivo": "Planilha domínios Ofício 248.xlsx",
+    "data": "2026-09-18T19:00:11",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
   "89b2c2318b5a940156a68f89e89d7b1cd17d253b79fa8caea13b611e7d5f69d2": {
     "arquivo": "Ofício n° 232-2026 - Ciberlab. 19.08.2026.pdf",
     "data": "2026-08-29T11:59:08",
@@ -26172,6 +26265,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "a7e09a38250f47e69622d51c7168fecc2375cd799daf47fae04a88a9d3d2a11b": {
+    "arquivo": "2026_09_09_Anexo_Dominios.ods",
+    "data": "2026-09-18T19:01:42",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
   "a8d3dcb3d0287d583211f88b73b07054ba440ab9387c2ecfffb94daf9da15a05": {
     "arquivo": "258-2026-Op_404_47alvos_Fase5_Dominios.pdf",
     "data": "2026-09-15T12:05:24",
@@ -27344,6 +27444,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "b8ae0deb70490f436175a89c8b2a5ef432e2aa25a74b45048854fb2b7f5403be": {
+    "arquivo": "Planilha domínios Ofício 251.xlsx",
+    "data": "2026-09-18T18:59:09",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
   "b906056148bf65c9f047e1e85d5092a740608b0bfa144049d7cfc1da5480c7ea": {
     "arquivo": "Planilha - tabela domínios.pdf",
     "data": "2026-09-16T16:55:06",
@@ -27709,6 +27816,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "cb539407df7f81cfab3d99ab08b56cf20a88c9538df9b1adafb7c779b8ff3ab3": {
+    "arquivo": "Planilha domínios Ofício 249.xlsx",
+    "data": "2026-09-18T18:59:10",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
   "cdce743a626f3b91cf931b2db556b1981489932fe23651d067f14e97cf675a75": {
     "arquivo": "250-Op_404_30alvos_Fase4_Dominios_assinado.pdf",
     "data": "2026-09-18T18:38:49",
@@ -27829,6 +27943,20 @@
   "d3f2859330e6913cf41bea1323c3772b6bfbd7b229c23de9e752d1e5b46d796e": {
     "arquivo": "80A__Lista_de_Bloqueio_Anatel.pdf",
     "data": "2026-09-03T17:37:03",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
+  "d4937002bdb8cdbb35db017f5738c9e8ba261a68a4d616cf42b8e294ea95182b": {
+    "arquivo": "Planilha domínios Ofício 252.xlsx",
+    "data": "2026-09-18T18:59:10",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
+  "d502e56681e62dee867aa9d007fda6618e91d24f8fde3d44ffaf5b459e6f9683": {
+    "arquivo": "Planilha - tabela ISPs domínios.xlsx",
+    "data": "2026-09-18T18:58:38",
     "dominios": [],
     "ocr": false,
     "operador": "Max-RouterX"
@@ -28806,6 +28934,13 @@
   "d5b351d577f0c5a271450abb7852a78d5d8f39331f08d518eb3c07f383d8d875": {
     "arquivo": "77A__Lista_Bloqueio_Anatel.pdf",
     "data": "2026-08-11T13:41:50",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
+  "d5c6cdc1e5a8a12e9927d9f27b4dae6e4fb8361cdbf28ca05ec5bee7952ea536": {
+    "arquivo": "Domains_Plantao_complementar 20260909_.xlsx",
+    "data": "2026-09-18T19:01:28",
     "dominios": [],
     "ocr": false,
     "operador": "Max-RouterX"
@@ -30483,6 +30618,16 @@
     "ocr": false,
     "operador": "maxwell"
   },
+  "dace2fd562b03da3154a99a56ba312433fe61b1e71a3bc01b3df9e1d35dfffa1": {
+    "arquivo": "Planilha domínios Ofício 257.xlsx",
+    "data": "2026-09-18T18:59:07",
+    "dominios": [
+      "cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online",
+      "storage-usa-sv07-user78787451.6siusan.workers.dev"
+    ],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
   "db744b1a5c1f551fd0174ad4533ff8c9ed5aa6407499b695e620c050eb8a3009": {
     "arquivo": "Domains_Plantão_20260819.pdf",
     "data": "2026-09-03T17:38:33",
@@ -30500,6 +30645,13 @@
   "dc4a6be2d4705b6d50716b76987ef56704dc0a4c91f079f62ab901a5ad022a40": {
     "arquivo": "DOMINIO_05_09_2026.pdf",
     "data": "2026-09-15T12:26:32",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
+  "dcbc52e1bb355512fe204c86c364da223aa4d1857984bcf560d5bcb1770a857b": {
+    "arquivo": "2026_09_13_Anexo_Dominios.ods",
+    "data": "2026-09-18T19:01:42",
     "dominios": [],
     "ocr": false,
     "operador": "Max-RouterX"
@@ -32304,6 +32456,13 @@
   "fa7f0c1425b133d24c8a9ce7eb04763b064f27adc7ccc3f2378ce6fe5070de23": {
     "arquivo": "Ofício n° 16943429 - CyberGaeco.pdf",
     "data": "2026-08-25T19:11:16",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Max-RouterX"
+  },
+  "fa8cb89f3b728f74ad54d57e1a6a773bf099d267b4789e07c352e2bccc2366d7": {
+    "arquivo": "Planilha domínios Ofício 250.xlsx",
+    "data": "2026-09-18T18:59:10",
     "dominios": [],
     "ocr": false,
     "operador": "Max-RouterX"
