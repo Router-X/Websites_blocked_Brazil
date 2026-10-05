@@ -6706,6 +6706,15 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "221726f4523b7f28990fc67c3e41f2f6894e7165cbf3e801ee06558673cb0629": {
+    "arquivo": "OFÍCIO Nº 07794-2026-PGU-AGU (site falso - Justiça Eleitoral).pdf",
+    "data": "2026-10-05T12:17:11",
+    "dominios": [
+      "portalconsultadoc.online"
+    ],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "22e5b1238a4fae9a4cb35b479e9a760015d1432032a74e03b7ddd68f329781e7": {
     "arquivo": "Ofício n° 224-2026 - Ciberlab. 12.08.2026.pdf",
     "data": "2026-08-21T16:41:16",
@@ -7029,6 +7038,13 @@
     "dominios": [],
     "ocr": false,
     "operador": "Max-RouterX"
+  },
+  "2dcc4fe2e21f059130be98cd01654c3490e83282f84fdaf696aad6334ae97e9f": {
+    "arquivo": "dominios_novos_bet_legal_2026_10_01.pdf",
+    "data": "2026-10-05T12:16:37",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
   },
   "2e42d163434eddb6d4d371d1dccd67911857af35d70e5a908c3e092a38e34113": {
     "arquivo": "265-Op_404_30alvos_Fase4_Dominios.pdf",
@@ -11826,6 +11842,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "3ecb3b4bd9a921c2f2a7b710586776733375fc06dea0cc315f487535a84246c5": {
+    "arquivo": "89A__Lista_de_bloqueio_anatel.pdf",
+    "data": "2026-10-05T12:17:06",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "3f9bc849033f9634ec60e494d1ca174f6086e827c86a2da856de7bb195797a03": {
     "arquivo": "Planilha complementar - Domains_Plantao_20260901.pdf",
     "data": "2026-09-15T12:17:20",
@@ -12674,6 +12697,13 @@
   "53476638ebced6208e92a48597393819ea884077ab9c1accfb795f942d32958e": {
     "arquivo": "Ofício nº 259-2026-Del.pdf",
     "data": "2026-09-25T17:17:38",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
+  "541257b01749c350c1a9f86a0d2dbb0ac688d3a710c828db303f2663fa11ee6c": {
+    "arquivo": "SEI_16388832_Oficio_927.pdf",
+    "data": "2026-10-05T12:17:12",
     "dominios": [],
     "ocr": false,
     "operador": "Equipe-RouterX"
@@ -14582,6 +14612,13 @@
     ],
     "ocr": false,
     "operador": "Max-RouterX"
+  },
+  "64d0fbf49c6bfd470c42f03ec662fd4d909cadee44290e7367e37475c5282716": {
+    "arquivo": "SEI_16388812_Oficio_924.pdf",
+    "data": "2026-10-05T12:17:12",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
   },
   "64f44948b9510e25be03056d7b2cb437e149c9c5911e1a8732bae2ac3705bdcc": {
     "arquivo": "Ofício nº 16929210 - CyberGaeco. 07.08.2026.pdf",
@@ -40307,6 +40344,15 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "d0ffaea4e8d46da36273568ff83169ff86491cee76dd0f43b0437ebc7dba6b47": {
+    "arquivo": "ANT_DF_MS_32503_20261004.pdf",
+    "data": "2026-10-05T12:17:16",
+    "dominios": [
+      "cgi.br"
+    ],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "d2d4b149bc9d6a91d26ddbe0dd64b2fe76233930582c329ec77d416fe30cd706": {
     "arquivo": "Apartado Sigiloso Operacao 20260915_domain.pdf",
     "data": "2026-09-15T12:09:37",
@@ -43872,6 +43918,15 @@
     "ocr": false,
     "operador": "Equipe-RouterX"
   },
+  "e6f2c7b7ecf77ea2422fbc2f77df4efbc42fc4119345bf0fee558585ad8520a5": {
+    "arquivo": "Ofício nº 881-2026-FIGF6-FIGF-SFI-ANATEL.pdf",
+    "data": "2026-10-05T12:17:07",
+    "dominios": [
+      "alfa.net"
+    ],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "e707d74037f43f139adeb8739a04407c60bf24daac88e3d5d9010edadaba5332": {
     "arquivo": "II - Planilha - Tabela Domínios (8).pdf",
     "data": "2026-09-30T14:49:12",
@@ -44360,6 +44415,19 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "f04420afbd9e999284721f59aa9ef5e05d7d35ce48faab9ce618ca8f5ace3142": {
+    "arquivo": "Ofício nº 17063057 – CyberGaeco.pdf",
+    "data": "2026-10-05T12:17:08",
+    "dominios": [
+      "apachetorrents.com",
+      "hdrtorrent.site",
+      "motoxfilmexperience.com",
+      "redestorrents.com",
+      "xviatorrent.com"
+    ],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "f0f480cb5db78fa133c4ac102306e08021bacba2cffe94d0dc2926761d134e5d": {
     "arquivo": "Ofício n° 211-2026 - Ciberlab. 05.08.2026.pdf",
     "data": "2026-08-14T17:50:16",
@@ -44408,6 +44476,13 @@
     "dominios": [],
     "ocr": false,
     "operador": "Max-RouterX"
+  },
+  "f47590d1ecd3448a57f9284b1f62a33f50555263445d5d9b94644a1185f9cf98": {
+    "arquivo": "Decisao_Judicial_1031339_38_2022_8_26_0050___MPSP15 (8).pdf",
+    "data": "2026-10-05T12:17:10",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
   },
   "f49656bd307d4e013f6045f2f698829bfbf94e06bf08d12bc0583ea241f82077": {
     "arquivo": "II - Planilha - Tabela Domínios (3).pdf",
