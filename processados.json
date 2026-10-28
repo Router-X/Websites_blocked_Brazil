@@ -855,6 +855,13 @@
     "ocr": false,
     "operador": "maxwell"
   },
+  "0478dafb3e43fa9e7fcabb2c5dbd453be78f3512d7606092dc999ebe73de0e16": {
+    "arquivo": "VI - Ofício nº 277_2026-Del, de 23.09.2026, e respectiva Tabela de domínios.pdf",
+    "data": "2026-10-28T13:02:44",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "04c1f667541fc4eeb69abc598961785e81812dc5ae8a80d7ca47923cb09af9c9": {
     "arquivo": "DOMINIO_23_09_2026.pdf",
     "data": "2026-10-05T18:48:19",
@@ -1590,6 +1597,13 @@
   "0a29846b622eefc08295ee1d82a8640b8f44c8839c0d05097efba1b25607f9c6": {
     "arquivo": "Oficio 3867_2026 CIBERLAB DIOPI_DIOPI_SENASP_MJ.pdf",
     "data": "2026-10-08T13:39:17",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
+  "0aeab0a24709a4479470b7384314401b35f0869d66ce505c416b61e9f06547f1": {
+    "arquivo": "II - Ofício nº 948_2026_FIGF6_FIGF_SFI-ANATEL.pdf",
+    "data": "2026-10-28T12:49:35",
     "dominios": [],
     "ocr": false,
     "operador": "Equipe-RouterX"
@@ -5586,6 +5600,17 @@
     "arquivo": "Ofício nº 861-2026-FIGF6-FIGF-SFI-ANATEL.pdf",
     "data": "2026-09-25T17:17:39",
     "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
+  "118383372ca931e6547b8a3b08a2862f7f2a20f3f9b8eb9f2f38ce7b1222f33a": {
+    "arquivo": "I - Decisão Judicial - 5022342-05.2026.8.08.0035.pdf",
+    "data": "2026-10-28T12:49:35",
+    "dominios": [
+      "institutovozesdorecomeco.com",
+      "pje.tjes.ju8.br",
+      "view.se"
+    ],
     "ocr": false,
     "operador": "Equipe-RouterX"
   },
@@ -11658,6 +11683,13 @@
     "dominios": [],
     "ocr": false,
     "operador": "Max-RouterX"
+  },
+  "29429ab044b50e7dcef60c2f442840bfeebf69c01164b81de2421ec71c7cd457": {
+    "arquivo": "X - Ofício nº 877_2026_FIGF6_FIGF_SFI-ANATEL.pdf",
+    "data": "2026-10-28T12:59:48",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
   },
   "29c1f27a785ffc613001d849d4166f5fd8cb217eb067599c90e070e0fd2d3ef3": {
     "arquivo": "Decisao_Judicial_1031339_38_2022_8_26_0050___MPSP15.pdf",
@@ -20458,6 +20490,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "4bdd6322fd8cdd4719ad2ab2a8c7064f5ac33a381f680c8ae588627916d79bf8": {
+    "arquivo": "X - Planilha PDF - Tabela Domínios.pdf",
+    "data": "2026-10-28T12:47:59",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "4df4553879b06319dd47f915f855c033f2b74d66df1bd541021bbc2f1534eb20": {
     "arquivo": "IX - Planilha PDF - Tabela Domínios.pdf",
     "data": "2026-10-02T14:01:47",
@@ -24205,6 +24244,13 @@
   "5b3c76c745c9925c2da808603280917d4f815f63d5dd7cf6a0eeec46117abe9c": {
     "arquivo": "95A__Lista_de_bloqueio_Anatel_10A__apA_s_o_MP.pdf",
     "data": "2026-10-20T14:44:38",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
+  "5bf3edb97b3af80cfc757b2ea5608e79f38aeba18888c062820016fb34aef411": {
+    "arquivo": "V - Ofício nº 275_2026-Del, de 23.09.2026, e respectiva Tabela de domínios.pdf",
+    "data": "2026-10-28T12:53:05",
     "dominios": [],
     "ocr": false,
     "operador": "Equipe-RouterX"
@@ -28317,6 +28363,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "6c4add42170baf38ca02b7c575097e146e90cd3abe9a428fc40f53587db418fc": {
+    "arquivo": "V - Planilha PDF - Tabela Domínios.pdf",
+    "data": "2026-10-28T12:46:21",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "6c63b7e931d7f139436711d30d9f5242632f7fa9075b7fb5076667740430b90e": {
     "arquivo": "254-Op_404_30alvos_Fase4_Dominios.pdf",
     "data": "2026-09-15T12:13:22",
@@ -30583,6 +30636,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "70c337770eb98c0c7a9b6113a7ad6210bd73776d2c8f481cd232bf5347414704": {
+    "arquivo": "III - Ofício nº 266_2026-Del, de 21.09.2026, e respectiva Tabela de domínios.pdf",
+    "data": "2026-10-28T12:57:35",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "70c9c5a59f8b8feb3ae45dfee1eb2c831db59e47bce262ad74140eddac470828": {
     "arquivo": "DOMINIO_07_10_2026-167.pdf",
     "data": "2026-10-19T14:14:08",
@@ -30720,6 +30780,13 @@
       "youcine.com.im",
       "zenplay.me"
     ],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
+  "71286b5182838bce606c172389ce462d56c2b8b8891788ae09c51b44a97ed4bd": {
+    "arquivo": "IV - Ofício nº 274_2026-Del, de 23.09.2026, e respectiva Tabela de domínios.pdf",
+    "data": "2026-10-28T12:54:40",
+    "dominios": [],
     "ocr": false,
     "operador": "Equipe-RouterX"
   },
@@ -39417,6 +39484,13 @@
     "ocr": false,
     "operador": "Equipe-RouterX"
   },
+  "7836f99bc5c7c8324ae5f114d66ce88c91a682229d46a972a8ddb2d376b4d8ab": {
+    "arquivo": "VII - Planilha PDF - Tabela Domínios.pdf",
+    "data": "2026-10-28T12:46:37",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "787f54c8c97479f450b2607e1e0379e267fd742198fbf02da186872c70c2a121": {
     "arquivo": "248-2026-Op_404_20alvos_Fase7_Dominios_assinado.pdf",
     "data": "2026-09-15T12:10:45",
@@ -46717,6 +46791,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "8ee2aad563520279518a20f648cdeb982a5135d6ace27b4ea77d90aed5edf45a": {
+    "arquivo": "I - Ofício nº 242_2026 - Decisão Judicial 0103200-14.2006.5.04.0022.pdf",
+    "data": "2026-10-28T12:48:00",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "8ffbb69ec714dc365dca6ede7d9695460d77781a9eb61eb6a81206bc4c596c40": {
     "arquivo": "75A__Lista_Bloqueio_Anatel.pdf",
     "data": "2026-07-25T14:11:23",
@@ -52171,6 +52252,13 @@
   "9ccdbd9cb1e0e3cdc542ba66b52a3f2a92225a934fd412ee6601a9f1ffb61861": {
     "arquivo": "Ofício nº 1010_2026_FIGF6_FIGF_SFI-ANATEL.pdf",
     "data": "2026-10-26T19:38:37",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
+  "9cdc75975d9800312cbbca6344334afade9c090a64d08ac0f7def0bf1eb8e7b8": {
+    "arquivo": "I - Ofício nº 264_2026-Del, de 21.09.2026, e respectiva Tabela de domínios.pdf",
+    "data": "2026-10-28T12:59:07",
     "dominios": [],
     "ocr": false,
     "operador": "Equipe-RouterX"
@@ -78715,6 +78803,13 @@
     "dominios": [],
     "ocr": false,
     "operador": "Max-RouterX"
+  },
+  "f93906823f335d9aa03ad51807a7258ea4f27e13425ae5f9158c72039ff4d4b6": {
+    "arquivo": "II - Ofício nº 265_2026-Del, de 21.09.2026, e respectiva Tabela de domínios.pdf",
+    "data": "2026-10-28T12:51:43",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
   },
   "f9460b78d37ee8b873a3eed6488918d71c7552883123434be2ed4d58277d06ca": {
     "arquivo": "Domains_Plantao_20260729_Complementares.pdf",
