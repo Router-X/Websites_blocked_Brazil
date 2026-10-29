@@ -11326,6 +11326,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "1cfce6110c416f19eef9cddc7e8525c19f487acc854edfba927546fc6d353efa": {
+    "arquivo": "107__Lista_de_bloqueio_Anatel_22__apos_o_MP.pdf",
+    "data": "2026-10-29T19:40:16",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "1cfd2af3df7d1e975c9e4c5907ad2aaeb38a476c8817a88edaa584fd235fc4ad": {
     "arquivo": "Ofício nº 281_2026.pdf",
     "data": "2026-10-27T12:03:33",
@@ -18579,6 +18586,13 @@
   "3ecb3b4bd9a921c2f2a7b710586776733375fc06dea0cc315f487535a84246c5": {
     "arquivo": "89A__Lista_de_bloqueio_anatel.pdf",
     "data": "2026-10-05T12:17:06",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
+  "3f2ff6304fb0161dc419a6fcc93815c4377316669ec89803361ec53fc16768e0": {
+    "arquivo": "108__Lista_de_bloqueio_Anatel_23__apos_o_MP.pdf",
+    "data": "2026-10-29T19:39:54",
     "dominios": [],
     "ocr": false,
     "operador": "Equipe-RouterX"
@@ -77350,6 +77364,13 @@
       "zy.b5n7x.com",
       "zz45co.com"
     ],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
+  "e89f366b2a4f822913be2a480a06487635bd66609cffa6088f931eb701eaa7af": {
+    "arquivo": "Planilha - Tabela Domínios (1).pdf",
+    "data": "2026-10-29T19:40:34",
+    "dominios": [],
     "ocr": false,
     "operador": "Equipe-RouterX"
   },
