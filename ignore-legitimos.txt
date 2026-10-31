@@ -18,6 +18,7 @@ tiktok.com
 t.co
 t.me
 forms.gle
+amazon.com
 
 # --- Imprensa (citada como prova em decisões) ---
 globo.com
