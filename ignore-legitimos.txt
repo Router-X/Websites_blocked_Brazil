@@ -32,3 +32,4 @@ terra.com.br
 
 # --- Setor ---
 abta.org.br
+registro.br
