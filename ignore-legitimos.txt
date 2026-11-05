@@ -33,3 +33,4 @@ terra.com.br
 # --- Setor ---
 abta.org.br
 registro.br
+projudi.tjpr.jus.br
