@@ -9,6 +9,7 @@ anatel.gov.br
 pje.cloud
 pje.jus.br
 registro.br
+projudi.tjpr.jus.br
 
 # --- adicionados pela semente do notebook ---
 ov.br
