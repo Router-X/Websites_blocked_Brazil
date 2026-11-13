@@ -14381,6 +14381,13 @@
     "ocr": false,
     "operador": "maxwell"
   },
+  "1be24f28608aa1680daa3f9eadacdc2fd088a26738f2431e193e294537a3c272": {
+    "arquivo": "Domains_Plantão_20261021.pdf",
+    "data": "2026-11-13T13:08:55",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "1c39a74e65192fd3f92e915a920628a22b5b235a90653e1b157de12afb6d2c63": {
     "arquivo": "94A_Lista_de_bloqueio_Anatel.pdf",
     "data": "2026-10-08T17:54:40",
@@ -14426,6 +14433,13 @@
   "1dea85f92734fc0cf62f1852085d39b7a2ef96d99149e9f083d4e0f7983b28ec": {
     "arquivo": "98A__Lista_de_bloqueio_Anatel_13A__apA_s_o_MP.pdf",
     "data": "2026-10-21T18:17:21",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
+  "1e1f1d22312977475b9443127b18e5cfc04f2c074536253f5e34c5e0ceb46768": {
+    "arquivo": "Planilha - Tabela Domínios (7).pdf",
+    "data": "2026-11-13T13:09:09",
     "dominios": [],
     "ocr": false,
     "operador": "Equipe-RouterX"
@@ -23201,6 +23215,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "424ca41f78de3ed5d4b3a2711de59351685aa8eaf94e6c7153ed2a14751f9e05": {
+    "arquivo": "Planilha - Tabela Domínios (8).pdf",
+    "data": "2026-11-13T13:09:29",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "4267003a569d98d157095a6520d1493553c04791967b2722f3977da234121cc6": {
     "arquivo": "Dominios_sistema_21.07.2026.pdf",
     "data": "2026-07-25T14:11:00",
@@ -23330,6 +23351,13 @@
   "461b8494701281499c1032dcc9c5584a94a41a6842ea12fae7405ae65d9d3cdd": {
     "arquivo": "Planilha - Tabela Domínios (1).pdf",
     "data": "2026-11-10T19:13:10",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
+  "461f35e7ce70cfcf79d853f4a652d087dfc9e9ad74a3a4e08d5f07bb556683cb": {
+    "arquivo": "Planilha - Tabela Domínios (5) (1).pdf",
+    "data": "2026-11-13T13:08:19",
     "dominios": [],
     "ocr": false,
     "operador": "Equipe-RouterX"
@@ -59320,6 +59348,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "977b2904b06a353d62954346b598d6d0b9465c9fc7cb98a3ae87531b4cf2f80a": {
+    "arquivo": "Planilha - Tabela Domínios (6).pdf",
+    "data": "2026-11-13T13:08:33",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "97ab5248d03aa314ef58d5f6fcf1a8a8ee5255a8f971670eee8abb30387890e7": {
     "arquivo": "92A__Lista_de_bloqueio_anatel.pdf",
     "data": "2026-10-07T12:47:36",
@@ -72306,6 +72341,13 @@
     "ocr": false,
     "operador": "maxwell"
   },
+  "b52ca609d54d312df82cd4179278f3c26aa6f826b70787f183678bcd12a80278": {
+    "arquivo": "Ofício nº 286-2026-Del.pdf",
+    "data": "2026-11-13T13:07:47",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "b54275d07e19e9e4c843d3b2c6095049d872c62d12986c4825b2dae67180584d": {
     "arquivo": "256-2026-Op_404_20alvos_Fase7_Dominios.pdf",
     "data": "2026-09-15T12:08:44",
@@ -81959,6 +82001,13 @@
     "dominios": [],
     "ocr": false,
     "operador": "Max-RouterX"
+  },
+  "cdfd486eafddec0ed3a1dfc5359363f1f0ecb1caadc31fc630134c82333fed79": {
+    "arquivo": "Planilha - Tabela Domínios (4) (1).pdf",
+    "data": "2026-11-13T13:08:01",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
   },
   "ce987fdc51a1ae91f2ce5e22fe9e449e19d8a5da92e370dbe8b2c9199589fde0": {
     "arquivo": "Planilha - Tabela Domínios.pdf",
@@ -95198,6 +95247,13 @@
     ],
     "ocr": true,
     "operador": "Max-RouterX"
+  },
+  "f76186dd667948a6c523e1e50c08ada36efcd5cf5952eb806031c09623c5783c": {
+    "arquivo": "110A__Lista_de_bloqueio_Anatel_25A__apA_s_o_MP.pdf",
+    "data": "2026-11-13T13:08:50",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
   },
   "f7b8e82f6f46d8d8620c02541095e3ea1b050ce97ccebfcb7d6164115bd69609": {
     "arquivo": "254-Op_404_30alvos_Fase4_Dominios.pdf",
