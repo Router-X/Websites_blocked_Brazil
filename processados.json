@@ -15078,6 +15078,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "240b874ce6ec6989d2c10b100d6e131a0843ace610277ea468e0f2cc32d3e82c": {
+    "arquivo": "Planilha - Tabela Domínios.pdf",
+    "data": "2026-11-16T12:07:12",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "24cfd07203a3522ce711dd603885b1bdbae9464ccffb8942c7412f2a47287c4a": {
     "arquivo": "Dominios_sistema_29.07.2026_ESA_108.pdf",
     "data": "2026-08-06T13:14:45",
@@ -30975,6 +30982,25 @@
     "ocr": false,
     "operador": "Equipe-RouterX"
   },
+  "5dadc28392b94a38540d011fb9361ab71862ac47e15b09028dc07d96628f25ee": {
+    "arquivo": "Ofício n° 293-2026 - Ciberlab.pdf",
+    "data": "2026-11-16T12:13:01",
+    "dominios": [
+      "123movie.group",
+      "123movie4k.net",
+      "123moviefreego.com",
+      "123movies9.im",
+      "123movies9.space",
+      "cuevana08.com",
+      "cuevana3-espanol.com",
+      "cuevana3c.pro",
+      "is123moviesto.com",
+      "vizer.press",
+      "www.vizer.press"
+    ],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "5dbd3374b2af3a7b2b46da6d033f5242a392aff55dface97de30fd97f57890b7": {
     "arquivo": "Domains_Plantão_20260709.pdf",
     "data": "2026-07-25T14:18:05",
@@ -30995,6 +31021,13 @@
     "dominios": [],
     "ocr": false,
     "operador": "Max-RouterX"
+  },
+  "5e2218a029870cfc8e7beb00fe9159864ffbd25d24173fba1812d5eeaab316ff": {
+    "arquivo": "Ofício nº 1090-2026-FIGF6-FIGF-SFI-ANATEL.pdf",
+    "data": "2026-11-16T12:07:25",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
   },
   "5e54e3c82e22a935044027b6ebe8f80901c3d0b466c3dc8e93755d5d8e05c7f6": {
     "arquivo": "Ofício n° 204-2026 - Ciberlab.pdf",
@@ -36661,6 +36694,13 @@
     "dominios": [],
     "ocr": false,
     "operador": "Max-RouterX"
+  },
+  "6ce45b4f33726b912ffaf809a323b5d2c19697529f5cf938b198505cc356335a": {
+    "arquivo": "Ofício nº 1076-2026-FIGF6-FIGF-SFI-ANATEL.pdf",
+    "data": "2026-11-16T12:08:31",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
   },
   "6d4bbb74f94dc316a7dc58669e943bdb8dbb189bfe5d1dbe134df5433dd752f5": {
     "arquivo": "78A__Lista_de_Bloqueio_Anatel.pdf",
@@ -50750,6 +50790,15 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "7f47f4823a8679baee2ea158fc8cfa673d9cf34918fa441da0431413aa4482d9": {
+    "arquivo": "Ofício n° 292-2026 - Ciberlab.pdf",
+    "data": "2026-11-16T12:09:59",
+    "dominios": [
+      "megafilmeshd.press"
+    ],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "7f88fdeeed7c801dea6d198902a77612c53acd9a9c83857579fc81be52dea59f": {
     "arquivo": "Ofício n° 17186937 - CyberGaeco.pdf",
     "data": "2026-11-10T14:10:56",
@@ -58594,6 +58643,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "934cb3e56031b095ab48fb16fdf8b129384549c964f007aceb322badf200c9ec": {
+    "arquivo": "Decisão Judicial - 1101944-37.2026.4.01.3400.pdf",
+    "data": "2026-11-16T12:14:03",
+    "dominios": [],
+    "ocr": true,
+    "operador": "Equipe-RouterX"
+  },
   "93975c7cb8bdd23bc1d415a059fe177c576d613d099a6437cc640c1b47281732": {
     "arquivo": "[7]-16316685_Planilha - Tabela Domínios.pdf",
     "data": "2026-09-23T12:05:04",
@@ -62519,6 +62575,27 @@
       "zsndjgimi1v9.opalivecdn.fun"
     ],
     "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
+  "99c44771f8dc4e1663984d6b8c743121e79e76ba64ee40c0a6cd45b7d16f1a3f": {
+    "arquivo": "Petição Inicial - domínios relacionados para bloqueio.pdf",
+    "data": "2026-11-16T12:18:01",
+    "dominios": [
+      "comprardiploma.blog",
+      "concluirfaculdade.com",
+      "diplomassuperior.com",
+      "diplomasuperioroniine.cam",
+      "diplomasuperioronline.com",
+      "ediploma.com",
+      "encurtador.com.br",
+      "nic.br",
+      "odiploma.com",
+      "seudiplomagarantide.com",
+      "seudiplomagarantido.com",
+      "tld.se",
+      "tudosobretodos.se"
+    ],
+    "ocr": true,
     "operador": "Equipe-RouterX"
   },
   "9abe76e34aa6b42ec3ac8c46dc2f8e0fae1efc8c916760010d276bf81e1afd01": {
@@ -67581,6 +67658,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "ac56cf76c64a2d41ca568bfb97dc3e5ce6346d92ca465ab260a96b5691c8dec3": {
+    "arquivo": "Ofício 58677-2026-MF.pdf",
+    "data": "2026-11-16T12:07:26",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "ad24b4f1fd7a232be23bb9dcb772efff8702cd8e5b7965492d9bffa4429ca83f": {
     "arquivo": "SEI_16388812_Oficio_924.pdf",
     "data": "2026-10-05T18:29:58",
@@ -69594,6 +69678,13 @@
   "b02298e0a3c7d71b77e6716d2ed30a55ee2032bee71218b59d764a8157b411f8": {
     "arquivo": "113A__Lista_de_bloqueio_Anatel_28A__apA_s_o_MP.pdf",
     "data": "2026-11-03T18:29:37",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
+  "b0c28bcc004418a538f75beb50583f081af0c653becb871884b5358f1e165a89": {
+    "arquivo": "Ofício nº 1112-2026-FIGF6-FIGF-SFI-ANATEL.pdf",
+    "data": "2026-11-16T12:18:42",
     "dominios": [],
     "ocr": false,
     "operador": "Equipe-RouterX"
@@ -90753,6 +90844,13 @@
     "dominios": [],
     "ocr": false,
     "operador": "Max-RouterX"
+  },
+  "dfd0b127915aaafbaea6b9ee466d495ac1a0f6db070d14189b57c72cb4020e87": {
+    "arquivo": "Decisão Judicial - 1101944-37.2026.4.01.3400 (1).pdf",
+    "data": "2026-11-16T12:18:41",
+    "dominios": [],
+    "ocr": true,
+    "operador": "Equipe-RouterX"
   },
   "dfe05b79cab50ad92d3d2f393d0e730331e359a874d857e1b961a165a175913e": {
     "arquivo": "96A__Lista_de_bloqueio_Anatel_MP.pdf",
