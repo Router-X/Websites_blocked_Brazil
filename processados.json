@@ -17950,6 +17950,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "2eea47f1ac88a9b2a0214e679b8e191910aa25ec0e8f444d5558094b60527ac8": {
+    "arquivo": "Domains_Plantão_20261118.pdf",
+    "data": "2026-11-28T12:58:50",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "2fffa2e88b9e422c5f55ea69982d838bd88096dc495a76291f8f7597833568ef": {
     "arquivo": "Ofício n° 215-2026 - Ciberlab. 05.08.2026.pdf",
     "data": "2026-08-14T17:43:24",
@@ -25775,6 +25782,13 @@
   "3ecb3b4bd9a921c2f2a7b710586776733375fc06dea0cc315f487535a84246c5": {
     "arquivo": "89A__Lista_de_bloqueio_anatel.pdf",
     "data": "2026-10-05T12:17:06",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
+  "3ecc22309357bd2bb5b6a37f0a8bec96d0b4901f52d31f61dca73f6b8519a0b0": {
+    "arquivo": "Listagem domínios - Ciberlab 4452-2026.pdf",
+    "data": "2026-11-28T12:58:10",
     "dominios": [],
     "ocr": false,
     "operador": "Equipe-RouterX"
@@ -37118,6 +37132,13 @@
     ],
     "ocr": false,
     "operador": "Max-RouterX"
+  },
+  "60e344a7e5f5bece582f9a2952b8cd61fe375223bee5004763bd5b41647c1b3a": {
+    "arquivo": "Planilha - Tabela Domínios_18_11_2026.pdf",
+    "data": "2026-11-28T12:58:52",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
   },
   "61111585f417f67ca8b081472ab34f29a14c37323aa133dbbf462874e720553c": {
     "arquivo": "Planilha - Tabela Domínios (1) (2).pdf",
@@ -71345,6 +71366,13 @@
     "ocr": false,
     "operador": "Equipe-RouterX"
   },
+  "92d62ddc8bd26a70ffe293cd12ec47f868525ab6b3bbd5ba23706bae1f92fdd9": {
+    "arquivo": "Planilha - Tabela Domínios_17_11_2026.pdf",
+    "data": "2026-11-28T12:58:51",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "92db5fc7ad38e974316fd438d84fe6dabc88936bfae5ecbd7b0d3b1107690742": {
     "arquivo": "Ofício nº 287-2026-Del.pdf",
     "data": "2026-10-26T19:32:28",
@@ -84782,6 +84810,13 @@
     "ocr": false,
     "operador": "Max-RouterX"
   },
+  "ae28326dda1a8db1968ae0957af7bd20a3c181d65e555034d126129b67f7e912": {
+    "arquivo": "Planilha - Tabela Domínios - 62170-2026.pdf",
+    "data": "2026-11-28T12:58:28",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "ae29dbeab7f58847b46c6d00648bb4dcc41c0654a2b012894391bbd17bf5fbca": {
     "arquivo": "DOMINIO_14_11_2026-Ofício n.º 191.pdf",
     "data": "2026-11-24T13:09:40",
@@ -91500,6 +91535,13 @@
     "ocr": false,
     "operador": "Equipe-RouterX"
   },
+  "b7c162a60c68c2cea66781c6bf99ecc96d5f413686b4f5a2f05c02a4d0beef66": {
+    "arquivo": "Planilha - Tabela Domínios - 61598-2026.pdf",
+    "data": "2026-11-28T12:58:50",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
   "b7f0d2d7900147d5423791eb6a0d3794fef8154d49074c950cbb8a2a3b627884": {
     "arquivo": "adsfadfafdfdfdfd.pdf",
     "data": "2026-10-21T19:54:17",
@@ -97540,6 +97582,13 @@
   "c0e4dd03099ed7c352fc0fef9e2f1e366bb6f8c4237decce7988308f7340e876": {
     "arquivo": "96A__Lista_de_bloqueio_Anatel_MP.pdf",
     "data": "2026-10-27T11:58:41",
+    "dominios": [],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
+  "c12122b51a47c6aeec12819a63ddae6d6951b34e3d0f6e7bab165e9e04a4ba26": {
+    "arquivo": "Planilha - Tabela Domínios 61939-2026.pdf",
+    "data": "2026-11-28T12:58:10",
     "dominios": [],
     "ocr": false,
     "operador": "Equipe-RouterX"
@@ -121616,6 +121665,16 @@
     "data": "2026-10-27T19:36:46",
     "dominios": [
       "contoseroticoscnn.com"
+    ],
+    "ocr": false,
+    "operador": "Equipe-RouterX"
+  },
+  "fea964314ef3c0315b326c90d2c361d4fad4ef3566b435a02f9d85854289d1db": {
+    "arquivo": "Ofício nº 1045-2026-FIGF6-FIGF-SFI-ANATEL.pdf",
+    "data": "2026-11-28T12:58:29",
+    "dominios": [
+      "nanofilme.com",
+      "www.nanofilme.com"
     ],
     "ocr": false,
     "operador": "Equipe-RouterX"
